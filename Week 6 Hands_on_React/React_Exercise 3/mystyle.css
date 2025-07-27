@@ -1,0 +1,41 @@
+.details-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: brown;
+}
+
+.label.name {
+    color: blue;
+    font-weight: bold;
+}
+.value.name {
+    color: lightblue;
+}
+
+.label.school {
+    color: red;
+    font-weight: bold;
+}
+.value.school {
+    color: plum;
+}
+
+.label.total {
+    color: red;
+    font-weight: bold;
+}
+.value.total {
+    color: black;
+}
+
+.label.score {
+    color: green;
+    font-weight: bold;
+}
+.value.score {
+    color: lightgreen;
+}
